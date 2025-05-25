@@ -23,7 +23,7 @@ Este proyecto es una aplicación web que permite a los usuarios generar un avata
 
    ```bash
    git clone <URL_DEL_REPOSITORIO>
-   cd 04-avatares-openai
+   cd Avatar-con-IA-de-OpenAI
    ```
 
 2. **Instala las dependencias:**
