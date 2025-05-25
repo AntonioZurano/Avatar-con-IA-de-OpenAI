@@ -57,21 +57,6 @@ La aplicación es fácil de usar. Simplemente sigue estos pasos:
 4. Espera mientras se crea tu avatar.
 5. Descarga o comparte tu avatar generado.
 
-04-avatares-openai/
-├── public/
-│   ├── assets/
-│   │   ├── css/
-│   │   │   └── styles.css
-│   │   ├── img/
-│   │   │   └── icon-avatar.png
-│   │   └── js/
-│   │       └── [main.js]
-│   └── index.html
-├── app.js (<http://localhost:3005>)
-├── package.json
-├── .env
-└── README.md
-
 ## Scripts disponibles
 
 npm start: Inicia el servidor con nodemon.
